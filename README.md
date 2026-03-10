@@ -16,6 +16,8 @@ pip install selenium
 pip install webdriver-manager
 ```
 
+App Link : https://loginpagetesting2.netlify.app/
+
 Simple Login Page:
 ![Alt Text](image.png)
 
