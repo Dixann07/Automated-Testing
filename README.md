@@ -12,6 +12,8 @@ Install Selenium:
 ```bash
 pip install selenium
 ```
+Simple Login Page:
+![Alt Text](image.png)
 Test Script:
 ```bash
 from selenium import webdriver
