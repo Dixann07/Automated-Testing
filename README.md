@@ -11,7 +11,7 @@ This script uses Selenium to automatically test a login page.
 Install Selenium:
 ```bash
 pip install selenium
-
+```
 Test Script:
 ```bash
 from selenium import webdriver
@@ -37,3 +37,4 @@ message = driver.find_element(By.ID, "message").text
 print(message)
 
 driver.quit()
+```
