@@ -48,3 +48,7 @@ print(message)
 
 driver.quit()
 ```
+
+Result:
+![Alt Text](image2.png)
+
